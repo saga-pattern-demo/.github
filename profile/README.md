@@ -7,7 +7,7 @@
 1. [Overview](#Overview)
 2. [Saga Pattern](#Saga-Pattern)
 3. [Handling Stock Insufficiency](#Handling-Stock-Insufficiency)
-4. [Handling Stock Insufficiency](#Handling-Stock-Insufficiency)
+4. [Handling Payment Rejections](#Handling-Payment-Rejections)
 
 ## Overview
 
